@@ -50,6 +50,7 @@ align-items: center;
 	padding: 5px;
 	border-radius:100px ;
 	transition: .3s;
+	display: flex;
 }
 .social:hover{
 	background-color: #000;
